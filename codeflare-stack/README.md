@@ -21,11 +21,11 @@ for further details and how to get in touch.
 
 | Component                    | Version |
 |------------------------------|---------|
-| CodeFlare Operator           | v0.1.0  |
-| Multi-Cluster App Dispatcher | v1.33.0 |
-| CodeFlare-SDK                | v0.6.1  |
-| InstaScale                   | v0.0.6  |
-| KubeRay                      | v0.5.0  |
+| CodeFlare Operator           |   |
+| Multi-Cluster App Dispatcher |  |
+| CodeFlare-SDK                |   |
+| InstaScale                   |   |
+| KubeRay                      |   |
 
 ## Quick Start
 
