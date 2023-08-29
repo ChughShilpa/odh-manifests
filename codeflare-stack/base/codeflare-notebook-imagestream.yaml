@@ -13,7 +13,7 @@ spec:
   tags:
     - annotations:
         openshift.io/imported-from: quay.io/project-codeflare/notebook
-      name: v0.6.1
+      name: latest
       from:
         kind: DockerImage
         name: quay.io/project-codeflare/notebook:v0.6.1
